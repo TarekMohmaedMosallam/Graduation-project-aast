@@ -1,0 +1,56 @@
+name: final_project_gd
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  curved_navigation_bar: ^1.0.6
+  flutter_plot: ^0.1.0
+  image_picker: ^1.1.2
+  device_preview: ^1.2.0
+  google_fonts: ^6.2.1
+  sizer: ^2.0.15
+  percent_indicator: ^4.2.3
+  syncfusion_flutter_gauges: ^26.1.38
+  semicircle_indicator: ^1.1.1
+  auto_size_text_field: ^2.2.3
+  auto_size_text: ^3.0.0
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  firebase_messaging: ^15.0.0
+  firebase_analytics: ^11.0.0
+  shared_preferences: ^2.0.15
+  tflite_flutter: ^0.10.4
+  awesome_notifications: ^0.9.3+1
+  motion_toast: ^2.10.0
+  badges: ^2.0.3
+  image: ^3.0.1 # for image processing
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/image/
+    - asset/webcions/
+    - asset/
+    - asset/newbuttonicon_finalmodel.png
+    - asset/imagedectect/
+    - asset/upload.png
+    - asset/Ai_Model/labels.txt
+    - asset/Ai_Model/model.tflite
+    - asset/Ai_Model/model (2).tflite
+    - asset/best_float32 (1).tflite
+  fonts:
+    - family: "Icon_part2"
+      fonts:
+        - asset: asset/fonts/Icon_part2.ttf
+
+

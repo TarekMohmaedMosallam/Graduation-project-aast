@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147839102164",
+    "project_id": "gradeproject-ecfe7",
+    "storage_bucket": "gradeproject-ecfe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147839102164:android:0425991a532f2f9e4adf41",
+        "android_client_info": {
+          "package_name": "com.firebase.final_project_gd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCUm93q3Qp7kC1pkqylOPnT1KGgYAXcXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
